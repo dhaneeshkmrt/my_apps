@@ -1,0 +1,1 @@
+const SNOOZE_TIME = 600;
